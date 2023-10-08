@@ -1,5 +1,5 @@
 console.log("inside app.js");
 
-function click(){
-    alert("i am click");
+function click2() {
+   alert('2click');
 }
